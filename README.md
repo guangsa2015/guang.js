@@ -4,10 +4,10 @@
 3、目前实现是<>为求平方函数，render为向body追加element;<br/>
 4、代码预览：<br/>
     <script type="text/guang"><br/>
-	   const a = 30;<br/>
-	   const b = 20;<br/>
-	   render(<a>);<br/>
-	   render("value:"+<b>);<br/>
+	&nbsp;&nbsp;const a = 30;<br/>
+	&nbsp;&nbsp;const b = 20;<br/>
+	&nbsp;&nbsp;render(<a>);<br/>
+	&nbsp;&nbsp;render("value:"+<b>);<br/>
 	</script><br/>
 5、运行效果：<br/>
-    900value:400<br/>
+    &nbsp;900value:400<br/>
