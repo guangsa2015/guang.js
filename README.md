@@ -6,8 +6,8 @@
     <script type="text/guang"><br/>
 	&nbsp;&nbsp;const a = 30;<br/>
 	&nbsp;&nbsp;const b = 20;<br/>
-	&nbsp;&nbsp;render(<a>);<br/>
-	&nbsp;&nbsp;render("value:"+<b>);<br/>
+	&nbsp;&nbsp;render(\<a>);<br/>
+	&nbsp;&nbsp;render("value:"+\<b>);<br/>
 	</script><br/>
 5、运行效果：<br/>
     &nbsp;900value:400<br/>
